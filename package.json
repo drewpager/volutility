@@ -1,0 +1,23 @@
+{
+  "name": "volutility",
+  "version": "1.0.0",
+  "description": "deep learning model for volume based trading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewpager/volutility.git"
+  },
+  "author": "Drew Page",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewpager/volutility/issues"
+  },
+  "homepage": "https://github.com/drewpager/volutility#readme",
+  "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^2.3.0",
+    "moment": "^2.29.1"
+  }
+}
